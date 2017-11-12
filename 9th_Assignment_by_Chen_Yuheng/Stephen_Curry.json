@@ -1,0 +1,305 @@
+{
+    "scale": "human",
+	"title": {
+		        "media": {
+		            "caption": "",
+		            "credit": "",
+		            "url": "http://img.bleacherreport.net/img/images/photos/003/551/351/hi-res-e58ee45adc62ef8c92ea3333e2e6cdbd_crop_north.jpg?h=533&w=800&q=70&crop_x=center&crop_y=top",
+		            "thumb": 	""
+		        },
+	            "text": {
+	                "headline": "A Biography of Stephen Curry",
+	                "text": "<br><li>Stephen Curry, aged 29, is a professional basketball player from the US.<p> He initiated his career in the Golden State Warriors of NBA in 2009, and has won two NBA championships with the Warriors in the past few years. Individually, he was entitled two-time NBA MVP and four-time NBA All-Star.</p></li>"
+	            }
+	    },
+    "events": [
+        {
+            "start_date": {
+                "year":			"1988",
+                "month":		"",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+			"group": "Hello",
+            "media": {
+                "caption": "Infant Stephen Curry",
+                "credit": "",
+                "url": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-s3.si.com%2Fs3fs-public%2Fimages%2F00-Stephen-Curry-childhood-076434134.jpg&w=800&q=85",
+                "thumb": 	""
+            },
+            "text": {
+                "headline": "Son of Akron",
+                "text": "Stephen’s father Dell Curry is a former NBA player. At that time, Dell was playing for the Cleveland Cavaliers in Ohio, thus the whole family moved with Dell to Akron, a small city near Cleveland, and it also became the place where Stephen Curry was born."
+            }
+        },
+        {
+            "start_date": {
+                "year":			"1989",
+                "month":		"",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "end_date": {
+                "year":         "2005",
+                "month":        "",
+                "day":          "",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+			"group": "Hello",
+            "media": {
+                "caption": "Growing Up Steph",
+                "credit": "Dell Curry",
+                "url": "https://www.youtube.com/watch?v=PLJVl2BjU1o",
+                "thumb": 	""
+            },
+            "text": {
+                "headline": "Growing Up in Charlotte",
+                "text": "One year after Stephen’s birth, his family moved again to Charlotte, North Carolina, as his father left the Cavaliers and became a member of the Charlotte Hornets. And then Stephen spent his entire childhood and adolescence in Charlotte as his father spent most of his career with the Hornets."
+            }
+        },
+        {
+            "start_date": {
+                "year":         "2006",
+                "month":        "",
+                "day":          "",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "caption": "",
+                "credit": "",
+                "url": "https://twitter.com/Efawcett7/status/881010931592908801"
+            },
+            "text": {
+                "headline": "College Career with Davidson",
+                "text": "After being rejected by North Carolina and his father’s alma mater Virginia Tech because of his slight frame, Stephen Curry chose to join a rather obscure college named Davidson College and then started his legendary college career."
+            },
+            "unique_id": ""
+        },
+        {
+            "start_date": {
+                "year":			"2008",
+                "month":		"",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+			"group": "Goodbye",
+            "media": {
+                "caption": "Stephen Curry Davidson Highlights",
+                "credit": "Official 3Pointz",
+                "url": "https://www.youtube.com/watch?v=7PVLVxyObqg",
+                "thumb": 	""
+            },
+            "text": {
+                "headline": "The Hero of Davidson College",
+                "text": "In his junior year, Stephen not only led Davidson College to their first win since 1969 in NCAA Tournament, but also advanced his team to the Elite 8 by defeating “giants” like Georgetown and Wisconsin. And he became widely recognized as a prospective basketball super star overnight."
+            }
+        },
+        {
+            "start_date": {
+                "year":			"2009",
+                "month":		"06",
+                "day": 			"25",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "media": {
+                "caption": "Stephen Curry in 2009 NBA Draft",
+                "credit": "",
+                "url": "https://flic.kr/p/8Xq27E"
+            },
+            "text": {
+                "headline": "The Seventh Pick",
+                "text": "Stephen Curry successfully clutched the seventh pick in the 2009 NBA draft and embarked on his NBA career with the Golden State Warriors.  "
+            },
+            "unique_id": ""
+        },
+        {
+            "start_date": {
+                "year":			"2010",
+                "month":		"",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "end_date": {
+                "year":			"2012",
+                "month":		"",
+                "day": 			"",
+                "hour": 		"",
+                "minute": 		"",
+                "second": 		"",
+                "millisecond": 	"",
+                "format": 		""
+            },
+            "media": {
+                "caption": "Stephen Curry's Injury History",
+                "credit": "sport dashboard",
+                "url": "https://www.youtube.com/watch?v=Vey0qHEV_1o"
+            },
+            "text": {
+                "headline": "Frustrating Early Years in NBA",
+                "text": "Stephen Curry’s first few years in NBA were not as well-off as expected. He was haunted by endless ankle injuries which stopped him from progressing. He only played 26 out of 82 regular games in the 2011-2012 season."
+            },
+            "unique_id": ""
+        },
+        {
+            "start_date": {
+                "year":         "2013",
+                "month":        "",
+                "day":          "",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "caption": "",
+                "credit": "",
+                "url": "https://twitter.com/Naoyan_Yoo0107/status/443990365771550720"
+            },
+            "text": {
+                "headline": "The Splash Brothers",
+                "text": "Stephen Curry turned back on the right track. In the new season, he and his teammate Klay Thompson were nicknamed as “The Splash Brothers” because of their exceptional three-point shooting skills and efficiency. And at the end of the season Stephen broke the NBA record for three-pointers made in a regular season kept by Ray Allen."
+            },
+            "unique_id": ""
+        },
+        {
+           "start_date": {
+                "year":         "2014",
+                "month":        "",
+                "day":          "",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "caption": "2014 NBA All-Star Western Starters",
+                "credit": "Michael Tipton",
+                "url": "https://flic.kr/p/jscTYa"
+            },
+            "text": {
+                "headline": "First All-Star Appearance",
+                "text": "Stephen Curry was selected as a starter of the 2014 NBA All-Star Team for the first time and also made his first All-Star Game appearance."
+            },
+            "unique_id": ""
+        },
+        {
+           "start_date": {
+                "year":         "2015",
+                "month":        "",
+                "day":          "",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "caption": "Stephen Curry MVP Soundbites",
+                "credit": "Campus Allianc",
+                "url": "https://vimeo.com/130948522"
+            },
+            "text": {
+                "headline": "First NBA MVP and NBA Champion",
+                "text": "It was a fruitful season for Stephen Curry, as he broke his own NBA record for three-pointers made in a season, won his first Three-Point Contest trophy, first NBA Most Valuable Player title, and most importantly, the first NBA Championship title for the Warriors since 1975."
+            },
+            "unique_id": ""
+        },
+        {
+           "start_date": {
+                "year":         "2016",
+                "month":        "",
+                "day":          "",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "caption": "Stephen Curry's Top 10 Threes of 2015-16",
+                "credit": "NBA",
+                "url": "https://youtu.be/oLnkUX7KaVw"
+            },
+            "text": {
+                "headline": "400 Three-pointers and 73 Wins",
+                "text": "In the 2015-2016 NBA season, Stephen achieved an even more stunning performance. He unprecedentedly raised the NBA record for three-pointers made in a season to over 400, and led the Warriors to break the 72-win record remained by the Great 1995–96 Chicago Bulls with 73 wins in a season. Also, he was unanimously voted as the MVP for that NBA season. But the Warriors regrettably missed its hands-down championship in the NBA Final."
+            },
+            "unique_id": ""
+        },
+        {
+           "start_date": {
+                "year":         "2017",
+                "month":        "",
+                "day":          "",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "media": {
+                "caption": "",
+                "credit": "",
+                "url": "https://twitter.com/StephenCurry30/status/875480703198052352"
+            },
+            "text": {
+                "headline": "Second NBA Champion with the Warriors",
+                "text": "The Warriors recruited another NBA super star Kevin Durant. In the help of Kevin, Stephen got his second NBA Championship ring without much effort, though in the sacrifice of his own individual titles. But he is heading to the greatest shooter ever in NBA history as he broke and set another NBA record for three-pointers during the season."
+            },
+            "unique_id": ""
+        },
+        {
+            "background": {
+                "color": "#000",
+                "opacity": 50,
+                "url": null
+            },
+            "start_date": {
+                "year":         "2018",
+                "month":        "",
+                "day":          "",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "thumbnail":    "",
+                "format":       ""
+            },
+            "text": {
+                "headline": "Legend to Be Continued!",
+                "text": ""
+            },
+            "unique_id": ""
+        }
+    ]
+}
