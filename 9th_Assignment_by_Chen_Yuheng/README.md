@@ -3,7 +3,7 @@ Dear Professor Suen,<br>
 - [Leaflet Exercise](http://dev-edward-chen.pantheonsite.io/Class%20Exercise2/index.html)
 
 The first link above connects to a TimelineJS demo I created to<br> exhibit a brief biography of Stephen Curry, my favorite basketball player.<br>
-And the second one links to the Leaflet exercise I finished in last week's class.<br> 
+And the second one links to the Leaflet exercise I finished in last week's class,<br> and I also made some adjustment on the original data content of the markers through Drupal.<br> 
 
 Thank you and have a nice weekend!
 
