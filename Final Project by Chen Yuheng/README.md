@@ -10,7 +10,12 @@ The second link is my Final Report on Personal Website Design, and I also attach
 The third link connects to my Drupal log-in page, and I have created a new account for you.<br> 
 - Username: Bernard; Password: 123456<br>
 
-Thank you and have a nice Christmas holiday!
+And I have also granted all the rights of my Google Analytics and Optimize to you by sending inivation email to
+- bernard@cuhk.edu.hk
+- [My Google Analytics Homepage](https://analytics.google.com/analytics/web/?authuser=1#embed/report-home/a110578802w164965869p165594147/)
+- [My Google Optimize Homepage](https://optimize.google.com/optimize/home/?authuser=1#/accounts/2116980832/containers/8028191)<br>
+
+I really appreciate the time with you this semester:) Thank you and have a nice Christmas holiday!
 
 Best Wishes,<br>
 Chen Yuheng
